@@ -1,4 +1,4 @@
-## Web-Scrapping-usando-Request-y-BeatifulSoup
+## Web Scrapping usando Request y BeatifulSoup
 
 Proyecto de web scrapping donde se usará las bibliotecas Request y BeatifulSoup.
 
